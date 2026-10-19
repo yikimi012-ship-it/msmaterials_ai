@@ -1,0 +1,6 @@
+{
+  "name": "AI WorkHub - 생성형 AI 도입 관리 시스템",
+  "description": "전사 생성형 AI 과제의 승인, 보안 거버넌스, 시범 운영 상태 및 실질 정량 성과를 체계적으로 관제하고 관리하는 전사 통합 거버넌스 콘솔",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
